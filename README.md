@@ -6,12 +6,12 @@ Run the main script (main.py) to train the neural network, play the number predi
 When importing or exporting trained parameters, do not include ".npz" in the name.
 Clone the repository to your local machine.
     
-    Ensure that the MNIST dataset files are present and named as follows:
-        t10k-images-idx3-ubyte
-        t10k-labels-idx1-ubyte
-        train-images-idx3-ubyte
-        train-labels-idx1-ubyte
-    Install the required dependencies specified in the requirements.txt file.
+Ensure that the MNIST dataset files are present and named as follows:
+
+    t10k-images-idx3-ubyte
+    t10k-labels-idx1-ubyte
+    train-images-idx3-ubyte
+    train-labels-idx1-ubyte
 
 Provided Test Parameters and Training Info
 
