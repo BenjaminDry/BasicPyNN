@@ -30,6 +30,8 @@ The tkinter window may open behind other applications.
 
 The training images file are too large to be stored in the repo but can be taken from: http://yann.lecun.com/exdb/mnist/
 
+Not being updated or worked on.
+
 Dependencies
 
     NumPy: For mathmatical operations.
