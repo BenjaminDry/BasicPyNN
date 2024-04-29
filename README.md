@@ -21,6 +21,7 @@ Provided Test Parameters and Training Info
 
 # Note
 The tkinter window may open behind other applications.
+
 The training images file are too large to be stored in the repo but can be taken from: http://yann.lecun.com/exdb/mnist/
 
 Dependencies
