@@ -20,9 +20,10 @@ Provided Test Parameters and Training Info
     test3.npz - 50h20e1.00e-2l
 
 Example reading 10h10e1.00e-2l:
-10h => 10 Hidden nodes
-10e => 10 Epochs
-1.00e-2l => 0.01 Learning Rate
+
+    10h => 10 Hidden nodes
+    10e => 10 Epochs
+    1.00e-2l => 0.01 Learning Rate
 
 # Note
 The tkinter window may open behind other applications.
