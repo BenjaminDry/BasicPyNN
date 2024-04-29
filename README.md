@@ -4,8 +4,8 @@ Python code for a neural network trained on the MNIST dataset for image recognit
 Usage
     Run the main script (main.py) to train the neural network, play the number prediction game, and test the model's accuracy.
     When importing or exporting trained parameters, do not include ".npz" in the name.
-
     Clone the repository to your local machine.
+    
     Ensure that the MNIST dataset files are present and named as follows:
         t10k-images-idx3-ubyte
         t10k-labels-idx1-ubyte
@@ -21,3 +21,14 @@ Provided Test Parameters and Training Info
 
 Note
     The tkinter window may open behind other applications.
+    The training images file are too large to be stored in the repo but can be taken from: http://yann.lecun.com/exdb/mnist/
+
+Dependencies
+
+    NumPy: For mathmatical operations.
+    mnist-py: For reading the MNIST dataset.
+
+Install Commands:
+
+    pip install numpy
+    pip install mnist-py
