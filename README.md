@@ -1,5 +1,5 @@
 # BasicPyNN
-Python code for a neural network trained on the MNIST dataset for image recognition. It also features a number prediction game where players draw digits for the network to guess. User to learn basics or neural networks
+Python code for a neural network trained on the MNIST dataset for image recognition. It also features a number prediction game where players draw digits for the network to guess. Used to learn basics of neural networks
 
 # Usage
 Run the main script (main.py) to train the neural network, play the number prediction game, and test the model's accuracy.
